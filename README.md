@@ -16,6 +16,8 @@ I'm an Android Developer from Belarus.
 <a href="https://github.com/LeFarmico/MoviesFinder"><img alt="Project" src="https://img.shields.io/badge/Movies%20Finder-v0.5.0-red"/></a> </br>
 <a href="https://github.com/LeFarmico/LangtestTelegramBot"><img alt="Project" src="https://img.shields.io/badge/Langtest%20Telegram%20bot-v1.0.0-blue"/></a> </br>
 <a href="https://github.com/LeFarmico/LangtestWebService"><img alt="Project" src="https://img.shields.io/badge/Langtest%20Web%20service-v1.0.0-green"/></a> </br>
+<a href="https://github.com/LeFarmico/hs-bg-stats-calculator"><img alt="Project" src="https://img.shields.io/badge/Hearthstone%20Stats%20Calculator-v0.1.0-orange"/></a> </br>
+<a href="https://github.com/LeFarmico/televoice"><img alt="Project" src="https://img.shields.io/badge/Televoice-v0.1.0-blue"/></a> </br>
 
 ## 🤖 Tech stack
 * Languages
