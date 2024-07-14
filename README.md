@@ -20,53 +20,17 @@ I'm an Android Developer from Belarus.
 <a href="https://github.com/LeFarmico/televoice"><img alt="Project" src="https://img.shields.io/badge/Televoice-v0.1.0-blue"/></a> </br>
 
 ## 🤖 Tech stack
-* Languages
-  * Java
+* Programin Languages
   * Kotlin
-* Asynchronous
-  * RxJava
-  * Coroutines Flow
-  * LiveData (as observer pattern)
-* Dependency Injection
-  * Dagger2 / Dagger Hilt
-  * Koin
-* Databases
-  * SQLite (Room as an abstraction layer over SQLite)
-  * MySQL (JPA Repositories as an abstraction layer over JPA)
-* Http
-  * OkHttp
-  * Retrofit (as client for OkHttp)
-* GRPC
-  * Okhttp for GRPC
-* Jetpack
-  * Navigation
-  * Compose
-  * Room
-  * Dagger Hilt
-  * WorkManager
-  * Material Disegn Components
-  ...
-* Android
-  * Activiy
-  * Fragment
-  * Service
-  * BroadcastReceiver
-  * ViewModel
-  * Intent
-  * WorkManager
-  * ContentProvider
-  * Deeplinks
-* Other
-  * Spring (I have made one project)
-  * Telegrambot API
-
-## ☕️ What I'm doing now
-* Studin studing studing... Hope it never ends 📖
-  * Want to learn Coroutines Flow deeper
-  * Custom Views
+  * Java
+* Techstack
+  * Android Native
   * Jetpack Compose
-* Writing web articles 🕸
-* Working on secret project 😏
+  * Redux (Kotlin)
+  * KMP (Basics)
+* Other
+  * Spring (Selfstudy)
+  * Telegrambot API
 
 ## 🔥 My Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lefarmico&theme=dark)](https://git.io/streak-stats)
