@@ -1,6 +1,5 @@
 <p align="center">
-<img src="waving.png" width=30% height=30%> </br>
-<h1 align="center">Hi there, I'm Arsiom 👋</h1>
+<img src="niceguy.png" width=30% height=30%> </br>
 </p>
 
 ## About Me: 
