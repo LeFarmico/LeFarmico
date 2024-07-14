@@ -3,13 +3,12 @@
 <h1 align="center">Hi there, I'm Arsiom 👋</h1>
 </p>
 
-## 👨 About Me: 
+## About Me: 
 I'm an Android Developer from Belarus.
-* I live in Sweden.
-* I used to be the champion in bodybuilding and athletics in Belarus. 💪 🏃
-* I'm Android Native Developer.
-* I can speak English, Belarusian, Russian.
-* In my free time, I learn new technologies and read new articles about modern development. 🖥
+* Live in Sweden.
+* The bodybuilding champion in 2020 at Belarusian national championship. 💪 🏃
+* Android Native Developer.
+* Languages: English, Belarusian, Russian.
 
 ## 📱 My projects
 <a href="https://github.com/LeFarmico/GymSupporter"><img alt="Project" src="https://img.shields.io/badge/Gym%20Supporter-v1.0.0-yellow"/></a> </br>
