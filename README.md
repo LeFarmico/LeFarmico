@@ -3,7 +3,6 @@
 </p>
 
 ## About Me: 
-I'm an Android Developer from Belarus.
 * Live in Sweden.
 * The bodybuilding champion in 2020 at Belarusian national championship. 💪 🏃
 * Android Native Developer.
