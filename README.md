@@ -1,33 +1,32 @@
-<p align="center">
-<img src="niceguy.png" width=30% height=30%> </br>
-</p>
-
 ## About Me: 
 * Live in Sweden.
 * The bodybuilding champion in 2020 at Belarusian national championship. 💪 🏃
-* Android Native Developer.
 * Languages: English, Belarusian, Russian.
 
 ## 📱 My projects
-<a href="https://github.com/LeFarmico/GymSupporter"><img alt="Project" src="https://img.shields.io/badge/Gym%20Supporter-v1.0.0-yellow"/></a> </br>
-<a href="https://github.com/LeFarmico/MoviesFinder"><img alt="Project" src="https://img.shields.io/badge/Movies%20Finder-v0.5.0-red"/></a> </br>
-<a href="https://github.com/LeFarmico/LangtestTelegramBot"><img alt="Project" src="https://img.shields.io/badge/Langtest%20Telegram%20bot-v1.0.0-blue"/></a> </br>
-<a href="https://github.com/LeFarmico/LangtestWebService"><img alt="Project" src="https://img.shields.io/badge/Langtest%20Web%20service-v1.0.0-green"/></a> </br>
-<a href="https://github.com/LeFarmico/hs-bg-stats-calculator"><img alt="Project" src="https://img.shields.io/badge/Hearthstone%20Stats%20Calculator-v0.1.0-orange"/></a> </br>
-<a href="https://github.com/LeFarmico/televoice"><img alt="Project" src="https://img.shields.io/badge/Televoice-v0.1.0-blue"/></a> </br>
+[![Gym Supporter](https://img.shields.io/badge/Gym%20Supporter-v1.0.0-yellow)](https://github.com/LeFarmico/GymSupporter)  
+[![Movies Finder](https://img.shields.io/badge/Movies%20Finder-v0.5.0-red)](https://github.com/LeFarmico/MoviesFinder)  
+[![Langtest Telegram bot](https://img.shields.io/badge/Langtest%20Telegram%20bot-v1.0.0-blue)](https://github.com/LeFarmico/LangtestTelegramBot)  
+[![Langtest Web service](https://img.shields.io/badge/Langtest%20Web%20service-v1.0.0-green)](https://github.com/LeFarmico/LangtestWebService)  
+[![Hearthstone Stats Calculator](https://img.shields.io/badge/Hearthstone%20Stats%20Calculator-v0.1.0-orange)](https://github.com/LeFarmico/hs-bg-stats-calculator)  
+[![Televoice](https://img.shields.io/badge/Televoice-v0.1.0-blue)](https://github.com/LeFarmico/televoice)
 
-## 🤖 Tech stack
-* Programin Languages
-  * Kotlin
-  * Java
-* Techstack
-  * Android Native
-  * Jetpack Compose
-  * Redux (Kotlin)
-  * KMP (Basics)
-* Other
-  * Spring (Selfstudy)
-  * Telegrambot API
+
+## 🤖 **Tech Stack**
+
+### **Programming Languages**
+- **Kotlin**
+- **Java**
+
+### **Frameworks & Tools**
+- **Android View**
+- **Jetpack Compose**
+- **Redux based architecture**
+- **Kotlin Multi Platform**
+
+### **Other Technologies**
+- **Spring** (Self-study)
+- **Telegram Bot API**
 
 ## 🔥 My Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lefarmico&theme=dark)](https://git.io/streak-stats)
